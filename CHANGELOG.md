@@ -2,6 +2,12 @@
 
 Notable changes to this project are documented here.
 
+## [1.0.2] - 2026-11-14
+
+### Added
+
+- Document AWS CLI usage, SDK endpoint and certificate configuration, and a Terraform provider example with a separate S3 backend note.
+
 ## [1.0.1] - 2026-11-12
 
 ### Added
